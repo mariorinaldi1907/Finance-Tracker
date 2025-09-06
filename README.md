@@ -53,6 +53,16 @@ First Commit :
 2. Initalised the next.js project that i will be working on that includes the Javascript, APP router, '/src' folder as well.
 3. Added placeholder pages
 
+Second Commit :
+
+1. Fixed the routing for the pages
+   (**Note to self that when we want to use next.js APP FOLDER for routing we need to ensure that we put name of folder followed by the name of page.js as a file in the folder. The name of the folder can be something like login then add the page.js under the folder so that the routing will work !!**)
+
+2. Routing pages for [signup, login, dashboard, homepage, transactions, upload are all changed]
+
+3. Created a standardised global layout.js
+   (**Always ensure that the app routing starts from the root page.js in that folder**)
+
 ## 4. Running the programme
 
 1. Getting started ( CLONE THE REPO FROM GITHUB )
