@@ -52,3 +52,25 @@ First Commit :
 1. Created my supabase account
 2. Initalised the next.js project that i will be working on that includes the Javascript, APP router, '/src' folder as well.
 3. Added placeholder pages
+
+## 4. Running the programme
+
+1. Getting started ( CLONE THE REPO FROM GITHUB )
+
+- git clone https://github.com/mariorinaldi1907/Finance-Tracker.git
+
+2. Enter the folder names finance-tracker
+
+- cd finance-tracker
+
+3. install all the necessary dependencies
+
+- npm install
+- npm run dev
+
+4. check if it is working on ur personal computer
+   at localhost
+
+- open up and browser and input http://localhost:3000/
+
+5. Try out the app and you should see that it is running
